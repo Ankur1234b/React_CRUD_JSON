@@ -1,0 +1,48 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Nihira techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "98899090"
+    },
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "4",
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "5",
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "3d8e",
+      "name": "Ankur Singh",
+      "email": "singhankurkumar369@gmail.com",
+      "phone": "09262326423"
+    },
+    {
+      "id": "bf56",
+      "name": "AMAN",
+      "email": "singh123@gmail.com",
+      "phone": "9262326423",
+      "active": true
+    }
+  ]
+}
